@@ -14,3 +14,7 @@ if similarity >= 0.7:
      print("correct! ( similarity = ",similarity,")")
 else:
      print("wrong! ( similarity = ",similarity,")")
+     
+print("test")
+
+     
